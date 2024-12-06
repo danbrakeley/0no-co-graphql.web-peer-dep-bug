@@ -1,0 +1,11 @@
+.DS_Store
+*.pem
+
+node_modules/
+/build
+*.tsbuildinfo
+.env*.local
+.env
+
+*.ignore.yml
+*.ignore.sh

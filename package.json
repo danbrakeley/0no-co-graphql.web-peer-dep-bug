@@ -1,0 +1,16 @@
+{
+  "name": "bug",
+  "version": "0.1.0",
+  "main": "./src/main.js",
+  "scripts": {
+    "build": "tsc --build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@amplitude/ampli": "^1.35.0",
+    "@urql/core": "^5.0.8"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
